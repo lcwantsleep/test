@@ -6,5 +6,7 @@ public class HelloGit {
         System.out.println("new");
         System.out.println(("hello,Git master!"));
         System.out.println("hello hot-fix");
+        System.out.println("hello hot-fix");
+
     }
 }
